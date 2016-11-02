@@ -1,0 +1,20 @@
+John J Johnson        100  90  79 100  65  81
+Ben A Franklin        100 100 100  78  88  98
+Patricia T McMillan    60  90  75  83  91  79
+Arthur D Dent          78  88  98  75 100  78
+Ford M Prefect         99  99  99 100 100 100  
+Zaphod P Beeblebrox   100  65  81  91  79  90  
+Andrew J Wiggins       45  50  75 100  78  88  
+Mary L Jane            83  91  79  90  75  83  
+Arthur C Doyle         65  55  45  35  80  81
+Orson S Card	     65  55  45  78  88  98
+Douglas D Adams	     60  90  75  83  91  79
+Thomas J Clancy	     78  88  98  75 100  78
+Thomas T Hanks 	     99  99  99  75  55  45    
+James T Kirk 	     35  80  81  91  79  90  
+Peter P Parker         60  50  75  65  71  62  
+Louis L Lane	     81  71  79  79  75  83  
+Andrew Martin	     75  55  45  81  91  73
+Peter Parker	    100 100 100 100 100 100
+Howard Helfer	     60  65  55  45  45  65
+Jim Jones	     50  60  40  70  30  80
